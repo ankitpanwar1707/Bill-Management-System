@@ -32,3 +32,8 @@ Tkinter library
 <ul>Juice: Rs. 60/glass</ul>
 <ul>Pancakes: Rs. 15/pack</ul>
 <ul>Eggs: Rs. 7/egg</ul>
+
+
+<h2>Screenshots</h2>
+
+!(https://drive.google.com/file/d/1v1hGgm1nEFQdvQM2EfDCdI7DoMxHwbtZ/view?usp=drive_link)
