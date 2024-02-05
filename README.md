@@ -36,4 +36,5 @@ Tkinter library
 
 <h2>Screenshots</h2>
 
-!(https://drive.google.com/file/d/1v1hGgm1nEFQdvQM2EfDCdI7DoMxHwbtZ/view?usp=drive_link)
+
+![Screenshot (122)](https://github.com/ankitpanwar1707/Bill-Management-System/assets/145194903/976182a1-9d16-4bee-a6ab-2266f4c16321)
