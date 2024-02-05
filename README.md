@@ -17,7 +17,9 @@ Tkinter library
 <h2>Usage</h2>
 
 1)Enter the quantity of each item you want to order in the respective entry fields.
+<br>
 2)Click the "Total" button to calculate the total bill.
+<br>
 3)To start a new order, click the "Reset" button to clear all the entered quantities.
 
 
